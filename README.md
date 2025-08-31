@@ -10,18 +10,21 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🧑‍🎓 I'm an Undergraduate at *Sri Lanka Institute of Advanced Technical Education*
+- 🧑‍🎓 I'm an Undergraduate at Sri Lanka Institute of Advanced Technical Education
 
-- 📫 How to reach me *nethmalsha90@gmail.com*
+- 💻 Skills: HTML | CSS | JavaScript | PHP | Figma | Photoshop
 
-- ⚡ Fun fact *Malsha*
+- 🤝 Open to: Internships, freelance opportunities, or collaborations
+
+- 🌟 Always excited to learn something new and share ideas with others!
+
+- ✨ Let’s build something amazing together!
 <br><br><br><br>
 
 <hr width="100%" >
 
-
-<h2>🛠 | Languages, Frameworks, and Tools </h2>
-<table>
+<h2 align="center">🛠 | Languages, Frameworks, and Tools </h2>
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=cs,php,java"/></td>
@@ -29,6 +32,10 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Design Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -64,5 +71,9 @@
 
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/malsha-nethmini-834317367/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malsha-nethmini-834317367/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+<img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
+</a>
 </p>
